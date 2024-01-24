@@ -1,4 +1,4 @@
-# Título del proyecto
+# Juego adivinar numero secreto
 ![Imagen del proyecto](https://github.com/pamelamichellga01/Mi-Portafolio/blob/main/Juego_adivinar_un_numero/img/demo.png?raw=true)
 
 
