@@ -7,7 +7,7 @@ Este es mi primer proyecto creado con HTML, CSS Y JavaScript para poner en pract
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-En este proyecto adquirido experiencia en trabajar código desarrollado por otras personas, donde agrege mis modificaciones para su posterior fucionamiento con JavaScript, se trabajo con condicionales, ciclos, requerimieto de datos al usuario consumidor, logica de programacion, muestra de datos en pantalla, entre otros.
+En este proyecto adquirí experiencia en como trabajar código desarrollado por otras personas, donde agrege mis modificaciones para su posterior fucionamiento con JavaScript, se trabajo con condicionales, ciclos, requerimieto de datos al usuario consumidor, logica de programacion, muestra de datos en pantalla, entre otros.
 
 ## Autor ✒️
 **Pamela Galvis Alvarez**
